@@ -1,7 +1,7 @@
 # Addi(c)tion_Prohibition
 
 ## Ads
-    What is the original function of an advertisement? Is it like a movie trailer in that it serves multiple purposes? 
+    What is the original function of an advertisement? Is it like a movie trailer, serves multiple purposes? 
 
 ## Addition
     100 + 200 = 300
